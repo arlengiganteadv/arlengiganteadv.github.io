@@ -10,8 +10,8 @@ export default function Header() {
             <span className="text-primary-foreground font-bold text-lg">⚖️</span>
           </div>
           <div className="hidden sm:block">
-            <h1 className="text-lg font-bold text-foreground">Advogado Rural</h1>
-            <p className="text-xs text-muted-foreground">Defesa Bancária</p>
+            <h1 className="text-lg font-bold text-foreground">KMA ADVOGADOS</h1>
+            <p className="text-xs text-muted-foreground">Atuamos em redução e prorrogação de dívidas rurais</p>
           </div>
         </div>
 

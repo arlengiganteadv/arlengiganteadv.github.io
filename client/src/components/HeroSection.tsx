@@ -4,11 +4,11 @@ import { ArrowRight, MessageCircle } from "lucide-react";
 export default function HeroSection() {
   return (
     <section className="relative min-h-[600px] md:min-h-[700px] flex items-center overflow-hidden bg-gradient-to-b from-slate-50 to-white">
-      {/* Background Image - Foto Pessoal */}
+      {/* Background Image - Foto do Grupo */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://d2xsxph8kpxj0f.cloudfront.net/310519663441746606/BZnEGFzuyUxG4dwdvBxxSv/IMG_6803.JPG_e8027362.webp"
-          alt="Advogado Especializado em Direito Rural"
+          src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663441746606/AKHRpUflodMoTSSQ.jpeg"
+          alt="Equipe de Advogados Especializados em Direito Rural"
           className="w-full h-full object-cover opacity-35"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-white via-white/85 to-white/40"></div>
@@ -21,13 +21,13 @@ export default function HeroSection() {
           <div className="space-y-6">
             <div className="space-y-3">
               <span className="inline-block text-primary font-semibold text-sm uppercase tracking-wide">
-                Defesa Especializada
+                Defesa do Produtor Rural
               </span>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
-                Protegendo o Produtor Rural
+                Protegendo o seu patrimônio, o seu legado.
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
-                Especialista em defesa contra instituições financeiras. Prorrogação de dívidas rurais com <strong className="text-primary">até 3+ anos de carência e 10 anos para pagar</strong>. Proteção de bens e segurança jurídica para sua propriedade.
+                Especialistas em defesa contra instituições financeiras. Prorrogação de dívidas rurais com <strong className="text-primary">até 3+ anos de carência e 10 anos para pagar</strong>. Proteção de bens e segurança jurídica para suas propriedades.
               </p>
             </div>
 
@@ -38,7 +38,7 @@ export default function HeroSection() {
                 <p className="text-sm text-muted-foreground">Carência em prorrogação</p>
               </div>
               <div className="space-y-1">
-                <p className="text-2xl md:text-3xl font-bold text-primary">10 anos</p>
+                <p className="text-2xl md:text-3xl font-bold text-primary">20 anos</p>
                 <p className="text-sm text-muted-foreground">Prazo para pagar</p>
               </div>
             </div>
@@ -73,8 +73,8 @@ export default function HeroSection() {
           <div className="hidden md:block relative">
             <div className="relative z-10">
               <img
-                src="https://d2xsxph8kpxj0f.cloudfront.net/310519663441746606/BZnEGFzuyUxG4dwdvBxxSv/IMG_6803.JPG_e8027362.webp"
-                alt="Advogado Especializado em Direito Rural"
+                src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663441746606/AKHRpUflodMoTSSQ.jpeg"
+                alt="Equipe de Advogados Especializados em Direito Rural"
                 className="rounded-lg shadow-2xl border-4 border-primary/20"
               />
             </div>

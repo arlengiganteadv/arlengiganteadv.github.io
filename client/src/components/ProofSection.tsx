@@ -85,19 +85,19 @@ export default function ProofSection() {
           </Card>
         </div>
 
-        {/* Success Image */}
-        <div className="relative rounded-xl overflow-hidden shadow-xl">
+        {/* Success Image - Logo */}
+        <div className="relative rounded-xl overflow-hidden shadow-xl bg-white flex items-center justify-center min-h-96">
           <img
-            src="https://d2xsxph8kpxj0f.cloudfront.net/310519663441746606/BZnEGFzuyUxG4dwdvBxxSv/success-results-HbaXv2T9qjqj8qzeZQRKhZ.webp"
-            alt="Resultados de Recuperação Financeira"
-            className="w-full h-auto"
+            src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663441746606/xibvLxcshheLatZf.png"
+            alt="REIS FREIRE GIGANTE - Advogados Associados"
+            className="w-full h-full object-contain p-8"
           />
         </div>
 
         {/* Stats */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-12">
           <div className="text-center p-6 bg-primary/5 rounded-lg border border-primary/20">
-            <p className="text-3xl font-bold text-primary">500+</p>
+            <p className="text-3xl font-bold text-primary">100+</p>
             <p className="text-sm text-muted-foreground mt-2">Clientes Atendidos</p>
           </div>
           <div className="text-center p-6 bg-primary/5 rounded-lg border border-primary/20">
@@ -105,11 +105,11 @@ export default function ProofSection() {
             <p className="text-sm text-muted-foreground mt-2">Taxa de Sucesso</p>
           </div>
           <div className="text-center p-6 bg-primary/5 rounded-lg border border-primary/20">
-            <p className="text-3xl font-bold text-primary">10 anos</p>
+            <p className="text-3xl font-bold text-primary">20 anos</p>
             <p className="text-sm text-muted-foreground mt-2">Prazo de Prorrogação</p>
           </div>
           <div className="text-center p-6 bg-primary/5 rounded-lg border border-primary/20">
-            <p className="text-3xl font-bold text-primary">15+</p>
+            <p className="text-3xl font-bold text-primary">10+</p>
             <p className="text-sm text-muted-foreground mt-2">Anos Atuando</p>
           </div>
         </div>

@@ -49,7 +49,7 @@ export default function ServicesSection() {
             Soluções Completas
           </span>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            Serviços Especializados em Prorrogação e Defesa
+            Serviços Especializados em Prorrogação e Defesa Rural
           </h2>
           <p className="text-lg text-muted-foreground">
             Soluções jurídicas completas para proteger seus interesses e recuperar sua saúde financeira.

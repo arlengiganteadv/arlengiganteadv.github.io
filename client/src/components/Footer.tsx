@@ -14,10 +14,10 @@ export default function Footer() {
               <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
                 <span className="text-foreground font-bold">⚖️</span>
               </div>
-              <h3 className="text-lg font-bold">Advogado Rural</h3>
+              <h3 className="text-lg font-bold">KMA ADVOGADOS</h3>
             </div>
             <p className="text-sm text-primary-foreground/80 leading-relaxed">
-              Especialista em defesa do produtor rural contra instituições financeiras. 
+              Especialistas em defesa dos produtores rurais contra instituições financeiras. 
               Renegociação de dívidas, proteção de bens e segurança jurídica.
             </p>
           </div>
@@ -65,7 +65,7 @@ export default function Footer() {
                 className="flex items-center gap-2 hover:text-accent transition-colors"
               >
                 <Mail className="w-4 h-4 flex-shrink-0" />
-                <span>arlengigante.adv@gmail.com</span>
+                <span>kma.associados@gmail.com</span>
               </a>
               <div className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 flex-shrink-0 mt-1" />
@@ -116,7 +116,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="pt-8 border-t border-primary-foreground/20 text-center text-sm text-primary-foreground/70">
           <p>
-            &copy; {currentYear} Advogado Rural. Todos os direitos reservados. | 
+            &copy; {currentYear} Advogados Rurais. Todos os direitos reservados. | 
             <a href="#" className="hover:text-primary-foreground ml-1">Política de Privacidade</a>
           </p>
         </div>
