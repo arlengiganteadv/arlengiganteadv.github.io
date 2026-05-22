@@ -153,7 +153,7 @@ function vitePluginManusDebugCollector(): Plugin {
 const plugins = [react(), tailwindcss(), jsxLocPlugin(), vitePluginManusRuntime(), vitePluginManusDebugCollector()];
 
 export default defineConfig({
-  base:'arlengiganteadv.github.io',
+  base: 'arlengiganteadv.github.io',
   plugins,
   resolve: {
     alias: {
